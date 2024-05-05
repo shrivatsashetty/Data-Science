@@ -1,3 +1,5 @@
+/* group, multigroup and cogroup */
+
 student_details = LOAD './Data/student_details.txt'
 USING PigStorage(',')
 AS (id:int, fname:chararray, lname:chararray, age:int, mob:chararray, address:chararray);
@@ -7,8 +9,7 @@ emp_details = LOAD './Data/employees.txt'
 USING PigStorage(',')
 AS (id:int, fname:chararray, age:int, address:chararray);
 
-/* group, multigroup and cogroup */
-
+-- /* results of grouped data */
 -- grouped_data = GROUP student_details BY address;
 -- Dump grouped_data;
 

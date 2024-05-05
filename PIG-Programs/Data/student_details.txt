@@ -5,6 +5,9 @@
 005,Trupthi,Khanna,26,9848022336,Pune
 006,Archana,Mishra,23,9848022335,Chennai
 007,Komal,Nayak,24,9848022334,Hyderabad
+007,Komal,Nayak,24,9848022334,Hyderabad
 008,Bharathi,Nambiayar,23,9848022333,Chennai
 009,Arjun,Reddy,26,9848022331,Bengaluru
 010,Nikhil,Kumaraswami,26,9848022231,Bengaluru
+011,Nikhil,Kumaraswami,26,9848022231,Bengaluru
+012,Naveen,Reddy,35,9848028231,Kolar
