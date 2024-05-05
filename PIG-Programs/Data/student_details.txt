@@ -1,0 +1,10 @@
+001,Rajiv,Reddy,21,9848022337,Hyderabad
+002,siddarth,Agarwal,22,9848022338,Kolkata
+003,Rajesh,Khanna,22,9848022339,Delhi
+004,Preethi,Agarwal,26,9848022330,Pune
+005,Trupthi,Khanna,26,9848022336,Pune
+006,Archana,Mishra,23,9848022335,Chennai
+007,Komal,Nayak,24,9848022334,Hyderabad
+008,Bharathi,Nambiayar,23,9848022333,Chennai
+009,Arjun,Reddy,26,9848022331,Bengaluru
+010,Nikhil,Kumaraswami,26,9848022231,Bengaluru
